@@ -1,0 +1,20 @@
+
+body{
+  background-color: black;
+}
+#heading{
+font-family: Forte;
+color: rgb(114, 10, 143);  
+font-size: 60px;
+}
+#typehere{
+font-family:Harlow Solid Italic ;
+}
+#ty{
+    border-radius: 2px;
+    background: rgba(255, 255, 255,);
+    border: 5px solid rgb(125, 8, 8);
+}
+#notes{
+    color: rgb(131, 7, 7);
+}
